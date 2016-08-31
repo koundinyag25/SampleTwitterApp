@@ -1,1 +1,1 @@
-twitterApp renders the tweets from twitter using twitter search api with any associated handle bars for ex @entertainment would pull any tweets with @entertainment in it.for Authentication Oauth has benn used. 
+twitterApp renders the tweets using twitter search api with any associated handlebars, for example @entertainment would pull any tweets with @entertainment.Authentication is done using Oauth.
